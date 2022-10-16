@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Toilet Lantai 3","order":3,"parentId":11,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Lorong Lantai 3","order":2,"parentId":11,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"Tangga Lantai 3-2","order":4,"parentId":11,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"Lorong Lantai 2 - Barat","order":6,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"Toilet Lantai 2","order":8,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"Lorong Lantai 2 - Timur","order":9,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":true,"name":"Tangga Lantai 2-1 - Timur","order":10,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"Tangga Lantai 2-1 - Barat","order":7,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":true,"name":"Lorong Lantai 1 - Timur","order":12,"parentId":13,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":true,"name":"Lorong Lantai 1 - Barat","order":13,"parentId":13,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":true,"name":"Lt3","order":1,"parentId":0,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":12,"expanded":true,"name":"Lt2","order":5,"parentId":0,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":13,"expanded":true,"name":"Lt1","order":11,"parentId":0,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":14,"expanded":true,"name":"Lapangan","order":14,"parentId":13,"scrollX":832,"scrollY":640},
+{"id":15,"expanded":true,"name":"Kantin","order":15,"parentId":13,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":16,"expanded":true,"name":"Toilet Lantai 1","order":16,"parentId":13,"scrollX":832,"scrollY":640},
+{"id":17,"expanded":false,"name":"Warnet","order":17,"parentId":0,"scrollX":1092,"scrollY":609.3333333333334}
+]
